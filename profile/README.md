@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="https://raw.githubusercontent.com/RedTimeDB/RedTimeDB/main/imgs/logo.png" width="80%" height="80%"
+    src="https://raw.githubusercontent.com/RedTimeDB/RedTimeDB/main/imgs/logo.png" width="60%"
     border="0" alt="RedTimeDB" />
 </p>
 
