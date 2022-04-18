@@ -18,9 +18,8 @@ The next-generation time series database, builds ultra-high-speed write and quer
 4. Support community popular chart system.
 5. Support multiple protocols for write access: MQTT, HTTP, RESP.
 
-# Architecture
 <p align="center">
 <img 
     src="https://raw.githubusercontent.com/RedTimeDB/RedTimeDB/main/imgs/architecture.jpg" 
-      width="80%" alt="Architecture">
+      width="60%" alt="Architecture">
 </p>
