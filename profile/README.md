@@ -20,5 +20,5 @@ The next-generation time series database, builds ultra-high-speed write and quer
 <p align="center">
 <img 
     src="https://raw.githubusercontent.com/RedTimeDB/RedTimeDB/main/imgs/architecture.png" 
-      width="60%" alt="Architecture">
+      width="80%" alt="Architecture">
 </p>
