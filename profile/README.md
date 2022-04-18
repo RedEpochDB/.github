@@ -1,7 +1,7 @@
 
 <p align="center">
 <img 
-    src="https://raw.githubusercontent.com/RedTimeDB/RedTimeDB/main/imgs/architecture.jpg" 
+    src="https://raw.githubusercontent.com/RedTimeDB/RedTimeDB/main/imgs/architecture.png" 
       width="80%" alt="Architecture">
 </p>
 
