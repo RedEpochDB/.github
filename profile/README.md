@@ -1,12 +1,13 @@
 
 <p align="center">
 <img 
-    src="https://raw.githubusercontent.com/RedTimeDB/RedTimeDB/main/imgs/architecture.jpg" 
+    src="https://github.com/user-attachments/assets/f6c1ab29-5208-47c6-81c7-9d7b3bf77156" 
       width="80%" alt="Architecture">
 </p>
 
-![build](https://github.com/RedTimeDB/RedTimeDB/actions/workflows/build.yml/badge.svg) 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRedTimeDB%2FRedTimeDB.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FRedTimeDB%2FRedTimeDB?ref=badge_shield)
+![build](https://github.com/RedEpochDB/RedEpochDB/actions/workflows/build.yml/badge.svg) 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRedEpochDB%2FRedEpochDB.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FRedEpochDB%2FRedEpochDB?ref=badge_shield)
+
 
 The next-generation time series database, builds ultra-high-speed write and query performance based on the memory model, and has remote persistent write support,Welcome to experience a faster time series database.
 
